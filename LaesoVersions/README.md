@@ -1,1 +1,1 @@
-I left out the res folder in this upload. To see the project with the res folder go to https://github.com/Bamboo72/Programming2GroupProject1.
+These are different versions of my part of the Isle of Laeso group project. You can see the whole project at https://github.com/Bamboo72/Programming2GroupProject1.
