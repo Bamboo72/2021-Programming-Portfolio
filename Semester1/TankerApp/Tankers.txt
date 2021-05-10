@@ -1,0 +1,11 @@
+
+Inputs: ounces per day, life expectancy in years
+Outputs: amount in 11,000 gallon tankers
+
+Take an input from the user asking for their estimated amount of ounces of fluid intake per day
+Take an input from the user asking for their estimated life expectancy in years
+Life expectancy in days = life expectancy in years * 365.2425 (Due to leap years)
+Amount of ounces in lifetime = ounces per day * life expectancy in days
+Amount of gallons in lifetime = amount of ounces in lifetime / 128
+Amount of 11,000 gallon tankers in lifetime = amount of gallons in lifetime / 11,000
+Output to the user how many 11,000 gallon tankers they are expected to consume in their lifetime

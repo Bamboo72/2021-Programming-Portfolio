@@ -1,0 +1,28 @@
+
+import java.util.Scanner;
+
+public class Tankers{
+
+public static void main(String[] args){
+float ozpd, gallpd, lifeYears, lifeDays, ozpl, gallpl, tankers;
+
+
+Scanner inputReader = new Scanner(System.in);
+
+System.out.println("Please input your estimated average amount of ounces of fluid intake you have per day: "):
+ozpd = inputReader.nextFloat();
+
+System.out.println("Please input your estimated life span in years: "):
+lifeYears = inputReader.nextFloat();
+
+lifeDays = lifeYears * 365.2425;
+ozpl = ozpd * lifeDays;
+gallpl = ozpl / 128
+tankers = gallpl / 11000;
+
+
+System.out.println(tankers);
+
+}
+
+}
