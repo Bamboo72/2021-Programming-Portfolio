@@ -4,7 +4,7 @@ Ideas for projects to include in this portfolio:
 
 Semester 1:
 - Choose Your Own Adventure Game? (Maybe not, since it wasn't for the class)
-- Birthday Countdown
++ Birthday Countdown
 - Maze Robot
 - Table application?
 - Check at home for any other projects in the files at home. 
@@ -13,7 +13,7 @@ Semester 2:
 - Individual Project Maze Game
 - Group Project The Isle of Laeso
 - Recursion
-- Guessing game
++ Guessing game
 - Something with inheritance like AbstractTutorial or Pet
 
 - I think most of my projects are at home
