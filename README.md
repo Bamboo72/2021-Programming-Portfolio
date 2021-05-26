@@ -26,21 +26,21 @@ Certifications:
 ### Completed September 2020
  
  
- This was the first textbook project I completed, and was the inspiration for my Individual Project. This project is able to determine if a maze is solvable or not. It originally used a maze created manually in a 2D array, but I later changed it to use randomly generated mazes.
+ This was the first textbook project I completed in Programming 2, and was the inspiration for my Individual Project. This project is able to determine if a maze is solvable or not. It originally used a maze created manually in a 2D array, but I later changed it to use randomly generated mazes.
  
- ![Maze Robot Image]() 
+ ![Maze Robot Image](https://github.com/Bamboo72/2021-Programming-Portfolio/blob/main/images/MazeRobot.PNG) 
   
-Source code for calculator [here]()
+Source code for the Maze Robot [here](https://github.com/Bamboo72/2021-Programming-Portfolio/blob/main/CodeFromHome/MazeRobot.java)
 
 ## First Semester Table Application?
  
 ### Completed
  
-  This project allows the user to pass in strings to a table and then display them.
+  This project was a simple but interesting project that allows the user to pass in strings to a table and then display them. The strings are entered in CSV (comma-separated values) format. Hypothetically, this code could be used to create large tables for real data. (Although, I think much more development would be needed to make it usable.)
   
-![Table Application Image]() 
+![Table Application Image](https://github.com/Bamboo72/2021-Programming-Portfolio/blob/main/images/Table.PNG) 
 
- Source code for Table Application [here]()
+ Source code for Table Application [here](https://github.com/Bamboo72/2021-Programming-Portfolio/blob/main/CodeFromHome/Table.java)
 
 ## Second Semester Recursion Practice
 
@@ -77,9 +77,15 @@ Source code for calculator [here]()
  
 ### Completed May 2021
  
-  This was 
+  This was the biggest project of Programming 2 class. I worked with three of my peers to create a Catan inspired board game called The Isle of Laeso. In this Viking themed game you customize your character, collect resources, build structures, and compete against the other players to win through three different methods: escape, kill, or ascend. I came up with the concept and thus was the project manager. I was also in charge of creating the game art and code for displaying the graphics, which turned out to be a bigger job than I originally anticipated. I made the graphics in Adobe Illustrator, and displayed the graphics using Swing.
   
   Link to the project GitHub page [here](https://github.com/Bamboo72/Programming2GroupProject1)
   
   Source code for the Graphics class I made [here](https://github.com/Bamboo72/Programming2GroupProject1/blob/main/src/Graphics.java)
-  and note that I also made the two click listener classes and the 
+  and note that I also made the [MousePressListener](https://github.com/Bamboo72/Programming2GroupProject1/blob/main/src/MousePressListener.java) and the [BuildMenuMousePressListener](https://github.com/Bamboo72/Programming2GroupProject1/blob/main/src/BuildMenuMousePressListener.java).
+  
+  ![Laeso Title Image](https://github.com/Bamboo72/2021-Programming-Portfolio/blob/main/images/LaesoTitle.PNG)
+  ![Laeso Character Create Image](https://github.com/Bamboo72/2021-Programming-Portfolio/blob/main/images/LaesoCharacterCreate.PNG)
+  ![Laeso Gameplay Image](https://github.com/Bamboo72/2021-Programming-Portfolio/blob/main/images/LaesoGameplay.PNG)
+  ![Laeso Settings Image](https://github.com/Bamboo72/2021-Programming-Portfolio/blob/main/images/LaesoSettings.PNG)
+
