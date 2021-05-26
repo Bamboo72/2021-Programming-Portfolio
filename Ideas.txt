@@ -10,7 +10,7 @@ Semester 1:
 - Check at home for any other projects in the files at home. 
 
 Semester 2:
-- Individual Project Maze Game
+++ Individual Project Maze Game
 - Group Project The Isle of Laeso
 - Recursion
 + Guessing game
