@@ -1,0 +1,581 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head itemscope itemtype="https://schema.org/WebSite">
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/><meta name="description" content="Skyline High School fosters a community which values character, personal responsibility, and intellectual curiosity in order to achieve a high level of student learning." />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Skyline High School &mdash; Home of the Eagles</title>
+<link rel='dns-prefetch' href='//kit.fontawesome.com' />
+<link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
+<link rel='dns-prefetch' href='//use.fontawesome.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Skyline High &raquo; Feed" href="http://feeds.feedburner.com/SkylineHigh" />
+<link rel="alternate" type="application/rss+xml" title="Skyline High &raquo; Comments Feed" href="http://feeds.feedburner.com/SkylineHighComments" />
+<link rel="alternate" type="text/calendar" title="Skyline High &raquo; iCal Feed" href="https://schools.graniteschools.org/skylinehigh/events/?ical=1" />
+<link rel="canonical" href="https://schools.graniteschools.org/skylinehigh/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/schools.graniteschools.org\/skylinehigh\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.6.1"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='genesis-blocks-fontawesome-css'  href='https://schools.graniteschools.org/skylinehigh/wp-content/plugins/genesis-blocks/dist/assets/fontawesome/css/all.min.css?ver=1607032678' type='text/css' media='all' />
+<link rel='stylesheet' id='tribe-common-skeleton-style-css'  href='https://schools.graniteschools.org/skylinehigh/wp-content/plugins/the-events-calendar/common/src/resources/css/common-skeleton.min.css?ver=4.12.16' type='text/css' media='all' />
+<link rel='stylesheet' id='tribe-tooltip-css'  href='https://schools.graniteschools.org/skylinehigh/wp-content/plugins/the-events-calendar/common/src/resources/css/tooltip.min.css?ver=4.12.16' type='text/css' media='all' />
+<link rel='stylesheet' id='gsds-one-css'  href='https://schools.graniteschools.org/skylinehigh/wp-content/themes/gsds-one/style.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://schools.graniteschools.org/skylinehigh/wp-includes/css/dist/block-library/style.min.css?ver=5.6.1' type='text/css' media='all' />
+<style id='wp-block-library-inline-css' type='text/css'>
+.has-text-align-justify{text-align:justify;}
+</style>
+<link rel='stylesheet' id='genesis-blocks-style-css-css'  href='https://schools.graniteschools.org/skylinehigh/wp-content/plugins/genesis-blocks/dist/blocks.style.build.css?ver=1607032678' type='text/css' media='all' />
+<link rel='stylesheet' id='connections-blocks-css'  href='//schools.graniteschools.org/skylinehigh/wp-content/plugins/connections/assets/dist/css/blocks-editor.css?ver=10.1-1611004448' type='text/css' media='all' />
+<link rel='stylesheet' id='granite-styles-css'  href='https://schools.graniteschools.org/skylinehigh/wp-content/plugins/granite-common-elements/style.css?ver=5.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='gssp-shortcode-styles-css'  href='https://schools.graniteschools.org/skylinehigh/wp-content/plugins/granite-school-scc-pta/style-shortcodes.css?ver=5.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='gss-shortcode-styles-css'  href='https://schools.graniteschools.org/skylinehigh/wp-content/plugins/granite-school-shortcodes/css/style.css?ver=5.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='gss-content-boxes-css'  href='https://schools.graniteschools.org/skylinehigh/wp-content/plugins/granite-school-shortcodes/css/boxes.css?ver=5.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='//maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css?ver=5.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='gsdssi-school-information-css'  href='https://schools.graniteschools.org/skylinehigh/wp-content/plugins/gsdssi-school-information/public/css/gsdssi-school-information-public.css?ver=1.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-free-css'  href='//use.fontawesome.com/releases/v5.8.1/css/all.css?ver=5.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='https://schools.graniteschools.org/skylinehigh/wp-includes/css/dashicons.min.css?ver=5.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='gsdsone-style-css'  href='https://schools.graniteschools.org/skylinehigh/wp-content/themes/gsds-one/css/style.css?ver=5.6.1' type='text/css' media='all' />
+<!-- Inline jetpack_facebook_likebox -->
+<style id='jetpack_facebook_likebox-inline-css' type='text/css'>
+.widget_facebook_likebox {
+	overflow: hidden;
+}
+
+</style>
+<link rel='stylesheet' id='tablepress-default-css'  href='https://schools.graniteschools.org/skylinehigh/wp-content/plugins/tablepress/css/default.min.css?ver=1.12' type='text/css' media='all' />
+<link rel='stylesheet' id='cn-public-css'  href='//schools.graniteschools.org/skylinehigh/wp-content/plugins/connections/assets/dist/css/frontend.css?ver=10.1-1611004448' type='text/css' media='all' />
+<link rel='stylesheet' id='cnt-gsd-css'  href='//schools.graniteschools.org/skylinehigh/wp-content/plugins/connections-gsd/gsd.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='cnt-profile-css'  href='//schools.graniteschools.org/skylinehigh/wp-content/plugins/connections/templates/profile/profile.css?ver=3.0' type='text/css' media='all' />
+<link rel='stylesheet' id='cn-brandicons-css'  href='//schools.graniteschools.org/skylinehigh/wp-content/plugins/connections/assets/vendor/icomoon-brands/style.css?ver=10.1' type='text/css' media='all' />
+<link rel='stylesheet' id='leaflet-css'  href='//schools.graniteschools.org/skylinehigh/wp-content/plugins/connections/vendor/leaflet/leaflet.min.css?ver=1.3.4' type='text/css' media='all' />
+<link rel='stylesheet' id='leaflet-control-geocoder-css'  href='//schools.graniteschools.org/skylinehigh/wp-content/plugins/connections/vendor/leaflet/geocoder/Control.Geocoder.min.css?ver=1.11' type='text/css' media='all' />
+<link rel='stylesheet' id='cn-chosen-css'  href='//schools.graniteschools.org/skylinehigh/wp-content/plugins/connections/assets/vendor/chosen/chosen.min.css?ver=1.8.7' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='https://schools.graniteschools.org/skylinehigh/wp-content/plugins/jetpack/css/jetpack.css?ver=9.4' type='text/css' media='all' />
+<script type='text/javascript' src='//kit.fontawesome.com/d7aa3a44c4.js?ver=5.6.1' id='font-awesome-js'></script>
+<script type='text/javascript' src='https://schools.graniteschools.org/skylinehigh/wp-includes/js/jquery/jquery.min.js?ver=3.5.1' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://schools.graniteschools.org/skylinehigh/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://schools.graniteschools.org/skylinehigh/wp-content/plugins/gsdssi-school-information/public/js/gsdssi-school-information-public.js?ver=1.1.0' id='gsdssi-school-information-js'></script>
+<link rel="https://api.w.org/" href="https://schools.graniteschools.org/skylinehigh/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://schools.graniteschools.org/skylinehigh/xmlrpc.php?rsd" />
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-107266262-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-107266262-1');
+    </script>
+
+    	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta name="tec-api-version" content="v1"><meta name="tec-api-origin" content="https://schools.graniteschools.org/skylinehigh"><link rel="https://theeventscalendar.com/" href="https://schools.graniteschools.org/skylinehigh/wp-json/tribe/events/v1/" /><link rel="next" href="https://schools.graniteschools.org/skylinehigh/page/2/" />
+<meta itemprop="name" content="Skyline High" />
+<meta itemprop="url" content="https://schools.graniteschools.org/skylinehigh/" />
+<!-- BEGIN Google Analytics -->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-38465557-1']);
+  _gaq.push(['_setDomainName', 'graniteschools.org']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<!-- END Google Analytics --><style type="text/css">
+.upcoming-events li {
+	margin-bottom: 10px;
+}
+.upcoming-events li span {
+	display: block;
+}
+</style>
+<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #dd9933; background-image: url("https://schools.graniteschools.org/skylinehigh/wp-content/uploads/sites/108/2020/08/bg2.png"); background-position: left top; background-size: auto; background-repeat: repeat; background-attachment: scroll; }
+</style>
+				<style type="text/css">
+				/* If html does not have either class, do not show lazy loaded images. */
+				html:not( .jetpack-lazy-images-js-enabled ):not( .js ) .jetpack-lazy-image {
+					display: none;
+				}
+			</style>
+			<script>
+				document.documentElement.classList.add(
+					'jetpack-lazy-images-js-enabled'
+				);
+			</script>
+		
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Skyline High" />
+<meta property="og:description" content="Home of the Eagles" />
+<meta property="og:url" content="https://schools.graniteschools.org/skylinehigh/" />
+<meta property="og:site_name" content="Skyline High" />
+<meta property="og:image" content="https://schools.graniteschools.org/skylinehigh/wp-content/uploads/sites/108/2020/08/logo-skyline.png" />
+<meta property="og:image:width" content="502" />
+<meta property="og:image:height" content="500" />
+<meta property="og:locale" content="en_US" />
+
+<!-- End Jetpack Open Graph Tags -->
+<link rel="icon" href="https://schools.graniteschools.org/skylinehigh/wp-content/uploads/sites/108/2020/08/logo-skyline-150x150.png" sizes="32x32" />
+<link rel="icon" href="https://schools.graniteschools.org/skylinehigh/wp-content/uploads/sites/108/2020/08/logo-skyline-300x300.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://schools.graniteschools.org/skylinehigh/wp-content/uploads/sites/108/2020/08/logo-skyline-300x300.png" />
+<meta name="msapplication-TileImage" content="https://schools.graniteschools.org/skylinehigh/wp-content/uploads/sites/108/2020/08/logo-skyline-300x300.png" />
+</head>
+<body class="home blog custom-background wp-custom-logo tribe-no-js header-image content-sidebar genesis-breadcrumbs-visible genesis-footer-widgets-visible gsds-one front-page" itemscope itemtype="https://schema.org/WebPage"><div class="site-container"><ul class="genesis-skip-link"><li><a href="#quick-links" class="screen-reader-shortcut"> Skip to Information Toolbar</a></li><li><a href="#genesis-nav-primary" class="screen-reader-shortcut"> Skip to primary navigation</a></li><li><a href="#genesis-nav-secondary" class="screen-reader-shortcut"> Skip to secondary navigation</a></li><li><a href="#genesis-content" class="screen-reader-shortcut"> Skip to main content</a></li><li><a href="#genesis-sidebar-primary" class="screen-reader-shortcut"> Skip to primary sidebar</a></li><li><a href="#genesis-footer-widgets" class="screen-reader-shortcut"> Skip to footer</a></li></ul><header class="site-header" itemscope itemtype="https://schema.org/WPHeader"><div class="wrap"><div class="title-area"><a href="https://schools.graniteschools.org/skylinehigh/" class="custom-logo-link" rel="home" aria-current="page"><img width="502" height="500" src="https://schools.graniteschools.org/skylinehigh/wp-content/uploads/sites/108/2020/08/logo-skyline.png" class="custom-logo jetpack-lazy-image" alt="Skyline High Logo" data-attachment-id="154601" data-permalink="https://schools.graniteschools.org/skylinehigh/logo-skyline/" data-orig-file="https://schools.graniteschools.org/skylinehigh/wp-content/uploads/sites/108/2020/08/logo-skyline.png" data-orig-size="502,500" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="logo-skyline" data-image-description="" data-medium-file="https://schools.graniteschools.org/skylinehigh/wp-content/uploads/sites/108/2020/08/logo-skyline-300x300.png" data-large-file="https://schools.graniteschools.org/skylinehigh/wp-content/uploads/sites/108/2020/08/logo-skyline.png" data-lazy-srcset="https://schools.graniteschools.org/skylinehigh/wp-content/uploads/sites/108/2020/08/logo-skyline.png 502w, https://schools.graniteschools.org/skylinehigh/wp-content/uploads/sites/108/2020/08/logo-skyline-300x300.png 300w, https://schools.graniteschools.org/skylinehigh/wp-content/uploads/sites/108/2020/08/logo-skyline-150x150.png 150w" data-lazy-sizes="(max-width: 502px) 100vw, 502px" data-lazy-src="https://schools.graniteschools.org/skylinehigh/wp-content/uploads/sites/108/2020/08/logo-skyline.png?is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" /></a><h1 class="site-title" itemprop="headline"><a href="https://schools.graniteschools.org/skylinehigh/">Skyline High</a></h1><p class="site-description" itemprop="description">Home of the Eagles</p></div><div class="header-right"><div id="quick-links" class="info-toolbar">    <div class="info">
+        <a href="https://schools.graniteschools.org/skylinehigh/contact">
+            <span class="circle"><i class="fal fa-info"></i></span>
+            <span class="label">Contact</span>
+        </a>
+    </div>
+    <div class="info">
+        <a href="https://portal.graniteschools.org/">
+            <span class="circle"><i class="fal fa-key"></i></span>
+            <span class="label">GSD Portal</span>
+        </a>
+    </div>
+    <div class="info">
+        <a href="https://graniteschools.instructure.com">
+            <span class="circle"><i class="fal fa-chalkboard-teacher"></i></span>
+            <span class="label">Canvas</span>
+        </a>
+    </div>
+    <div class="info">
+        <a href="https://paypams.com">
+            <span class="circle"><i class="fal fa-credit-card"></i></span>
+            <span class="label">Pay Lunch</span>
+        </a>
+    </div>
+    <div class="info">
+        <a href="https://graniteschools.nutrislice.com/menu/skyline-hs">
+            <span class="circle"><i class="fal fa-carrot"></i></span>
+            <span class="label">Lunch Menu</span>
+        </a>
+    </div>
+    <div class="info">
+        <a href="https://www.facebook.com/skylinehigh/">
+            <span class="circle"><i class="fab fa-facebook-f"></i></span>
+            <span class="label">Facebook</span>
+        </a>
+    </div>
+    </div></div></div></header><nav class="nav-primary" aria-label="Main" itemscope itemtype="https://schema.org/SiteNavigationElement" id="genesis-nav-primary"><div class="wrap"><ul id="menu-primary-navigation" class="menu genesis-nav-menu menu-primary js-superfish"><li id="menu-item-23" class="navhome menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-23"><a href="https://schools.graniteschools.org/skylinehigh/" aria-current="page" itemprop="url"><span itemprop="name">Home</span></a></li>
+<li id="menu-item-28" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-28"><a href="https://schools.graniteschools.org/skylinehigh/directory/" itemprop="url"><span itemprop="name">Faculty</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-165" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-165"><a href="https://schools.graniteschools.org/skylinehigh/directory/administration/" itemprop="url"><span itemprop="name">Administration</span></a></li>
+	<li id="menu-item-169" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169"><a href="https://schools.graniteschools.org/skylinehigh/directory/counseling-and-career-center/" itemprop="url"><span itemprop="name">Counseling and Career Center</span></a></li>
+	<li id="menu-item-160" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-160"><a href="https://schools.graniteschools.org/skylinehigh/directory/teachers/" itemprop="url"><span itemprop="name">Teachers</span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-185" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-185"><a href="https://schools.graniteschools.org/skylinehigh/directory/teachers/business-teachers/" itemprop="url"><span itemprop="name">Business Teachers</span></a></li>
+		<li id="menu-item-159" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-159"><a href="https://schools.graniteschools.org/skylinehigh/directory/teachers/cte-teachers/" itemprop="url"><span itemprop="name">CTE Teachers</span></a></li>
+		<li id="menu-item-183" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-183"><a href="https://schools.graniteschools.org/skylinehigh/directory/teachers/fine-arts-teachers/" itemprop="url"><span itemprop="name">Fine Arts Teachers</span></a></li>
+		<li id="menu-item-182" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-182"><a href="https://schools.graniteschools.org/skylinehigh/directory/teachers/language-arts-teachers/" itemprop="url"><span itemprop="name">Language Arts Teachers</span></a></li>
+		<li id="menu-item-181" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-181"><a href="https://schools.graniteschools.org/skylinehigh/directory/teachers/math-teachers/" itemprop="url"><span itemprop="name">Math Teachers</span></a></li>
+		<li id="menu-item-180" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-180"><a href="https://schools.graniteschools.org/skylinehigh/directory/teachers/pe-health/" itemprop="url"><span itemprop="name">PE Health</span></a></li>
+		<li id="menu-item-179" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-179"><a href="https://schools.graniteschools.org/skylinehigh/directory/teachers/performing-arts-teachers/" itemprop="url"><span itemprop="name">Performing Arts Teachers</span></a></li>
+		<li id="menu-item-178" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-178"><a href="https://schools.graniteschools.org/skylinehigh/directory/teachers/science-teachers/" itemprop="url"><span itemprop="name">Science Teachers</span></a></li>
+		<li id="menu-item-2959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2959"><a href="https://schools.graniteschools.org/skylinehigh/service-learning-and-community-of-caring/" itemprop="url"><span itemprop="name">Service Learning and Community of Caring</span></a></li>
+		<li id="menu-item-188" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-188"><a href="https://schools.graniteschools.org/skylinehigh/directory/teachers/social-studies-teachers/" itemprop="url"><span itemprop="name">Social Studies Teachers</span></a></li>
+		<li id="menu-item-177" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-177"><a href="https://schools.graniteschools.org/skylinehigh/directory/teachers/special-ed-teachers/" itemprop="url"><span itemprop="name">Special Ed Teachers</span></a></li>
+		<li id="menu-item-176" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-176"><a href="https://schools.graniteschools.org/skylinehigh/directory/teachers/world-language-teachers/" itemprop="url"><span itemprop="name">World Language Teachers</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-175" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-175"><a href="https://schools.graniteschools.org/skylinehigh/directory/secretaries/" itemprop="url"><span itemprop="name">Secretaries</span></a></li>
+	<li id="menu-item-174" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-174"><a href="https://schools.graniteschools.org/skylinehigh/directory/staff/" itemprop="url"><span itemprop="name">Staff</span></a></li>
+</ul>
+</li>
+<li id="menu-item-76" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-76"><a href="https://schools.graniteschools.org/skylinehigh/departments/" itemprop="url"><span itemprop="name">Departments</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-2358" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2358"><a href="http://darlingskylineart.com/" itemprop="url"><span itemprop="name">Fine Arts</span></a></li>
+	<li id="menu-item-105" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-105"><a href="https://schools.graniteschools.org/skylinehigh/math/" itemprop="url"><span itemprop="name">Math</span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-2159" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2159"><a href="http://skylinemathteam.webs.com" itemprop="url"><span itemprop="name">Math Team</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-106" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-106"><a href="https://schools.graniteschools.org/skylinehigh/performing-arts/" itemprop="url"><span itemprop="name">Performing Arts</span></a></li>
+	<li id="menu-item-2957" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2957"><a href="https://schools.graniteschools.org/skylinehigh/service-learning-and-community-of-caring/" itemprop="url"><span itemprop="name">Service Learning and Community of Caring</span></a></li>
+</ul>
+</li>
+<li id="menu-item-45450" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-45450"><a href="http://skylineeaglesathletics.org" itemprop="url"><span itemprop="name">Athletics</span></a></li>
+<li id="menu-item-776" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-776"><a href="https://schools.graniteschools.org/skylinehigh/activities/" itemprop="url"><span itemprop="name">Activities</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-166383" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-166383"><a href="https://schools.graniteschools.org/skylinehigh/eagles-clubs/" itemprop="url"><span itemprop="name">Eagles Clubs</span></a></li>
+	<li id="menu-item-788" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-788"><a href="http://skylinedebate.wikispaces.com" itemprop="url"><span itemprop="name">Debate</span></a></li>
+	<li id="menu-item-165080" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-165080"><a href="https://schools.graniteschools.org/skylinehigh/esports-club/" itemprop="url"><span itemprop="name">eSports</span></a></li>
+	<li id="menu-item-167683" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-167683"><a href="https://schools.graniteschools.org/skylinehigh/robotics/" itemprop="url"><span itemprop="name">Robotics</span></a></li>
+	<li id="menu-item-2972" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2972"><a href="https://schools.graniteschools.org/skylinehigh/tsa/" itemprop="url"><span itemprop="name">TSA</span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-84956" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-84956"><a href="https://schools.graniteschools.org/skylinehigh/wp-content/uploads/sites/108/2019/02/APPROVAL-FORM-for-CURRICULUM-CLUB.pdf" itemprop="url"><span itemprop="name">Skyline Club Approval Form</span></a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-73" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-73"><a href="https://sites.google.com/granitesd.org/skyline-counseling/home" itemprop="url"><span itemprop="name">Counseling</span></a></li>
+<li id="menu-item-191" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-191"><a href="http://www.skylinemediacenter.org" itemprop="url"><span itemprop="name">Media Center</span></a></li>
+<li id="menu-item-74" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74"><a href="http://payskyline.us" itemprop="url"><span itemprop="name">WebStore</span></a></li>
+<li id="menu-item-172576" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-172576"><a href="https://schools.graniteschools.org/skylinehigh/covid-testing/" itemprop="url"><span itemprop="name">COVID Testing</span></a></li>
+</ul></div></nav><nav class="nav-secondary" aria-label="Secondary Navigation" id="genesis-nav-secondary" itemscope itemtype="https://schema.org/SiteNavigationElement"><div class="wrap"><ul id="menu-secondary-navigation" class="menu genesis-nav-menu menu-secondary js-superfish"><li id="menu-item-31" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-31"><a href="https://schools.graniteschools.org/skylinehigh/resources/" itemprop="url"><span itemprop="name">Resources</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-157500" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-157500"><a href="https://schools.graniteschools.org/skylinehigh/wp-content/uploads/sites/108/2020/08/Skyline-Policies-and-Procedures-2020-2021-1.pdf" itemprop="url"><span itemprop="name">Skyline Policies and Procedures 2020-2021</span></a></li>
+	<li id="menu-item-757" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-757"><a href="https://schools.graniteschools.org/skylinehigh/wp-content/uploads/sites/108/2017/12/Skyline-Profile-2017-2018.pdf.pdf" itemprop="url"><span itemprop="name">About Us</span></a></li>
+	<li id="menu-item-714" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-714"><a href="https://schools.graniteschools.org/skylinehigh/attendance-policy/" itemprop="url"><span itemprop="name">Attendance Policy</span></a></li>
+	<li id="menu-item-90772" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-90772"><a href="https://schools.graniteschools.org/skylinehigh/wp-content/uploads/sites/108/2020/08/Bell-Schedules-2020-2021.pdf" itemprop="url"><span itemprop="name">Bell Schedules</span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-92059" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-92059"><a href="https://schools.graniteschools.org/skylinehigh/wp-content/uploads/sites/108/2020/08/Bell-Schedules-2020-2021.pdf" itemprop="url"><span itemprop="name">Bell Schedule</span></a></li>
+		<li id="menu-item-92058" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-92058"><a href="https://schools.graniteschools.org/skylinehigh/wp-content/uploads/sites/108/2019/07/First-Day-of-School-Monday-Assembly-Schedule-2019.pdf" itemprop="url"><span itemprop="name">Special Bell Schedule</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-115667" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-115667"><a href="https://gsdfuture.org/category/project-updates/skyline/" itemprop="url"><span itemprop="name">Rebuild Updates!</span></a></li>
+	<li id="menu-item-45427" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-45427"><a href="https://schools.graniteschools.org/skylinehigh/wp-content/uploads/sites/108/2015/11/TLF.pdf" itemprop="url"><span itemprop="name">Digital Citizenship and Think Poster</span></a></li>
+	<li id="menu-item-90773" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-90773"><a href="http://www.ticketpeak.com/res/skylinedrama" itemprop="url"><span itemprop="name">Skyline Drama</span></a></li>
+	<li id="menu-item-71539" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-71539"><a href="https://schools.graniteschools.org/skylinehigh/school-song/" itemprop="url"><span itemprop="name">School Song</span></a></li>
+	<li id="menu-item-745" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-745"><a href="https://schools.graniteschools.org/skylinehigh/newsletter/" itemprop="url"><span itemprop="name">Newsletter</span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-84240" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-84240"><a href="https://schools.graniteschools.org/skylinehigh/wp-content/uploads/sites/108/2018/12/Skyline-High-School-EAGLES-Newsletter-11-2018.pdf" itemprop="url"><span itemprop="name">December 2018</span></a></li>
+		<li id="menu-item-72694" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-72694"><a href="https://schools.graniteschools.org/skylinehigh/wp-content/uploads/sites/108/2017/12/Skyline-News-12-2017.pdf" itemprop="url"><span itemprop="name">December 2017</span></a></li>
+		<li id="menu-item-71236" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-71236"><a href="https://schools.graniteschools.org/skylinehigh/wp-content/uploads/sites/108/2017/11/Skyline-News11-2017.pdf" itemprop="url"><span itemprop="name">November 2017</span></a></li>
+		<li id="menu-item-71751" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-71751"><a href="https://schools.graniteschools.org/skylinehigh/wp-content/uploads/sites/108/2017/11/Skyline-News-10-2017.pdf" itemprop="url"><span itemprop="name">October 2017</span></a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-84245" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-84245"><a href="https://schools.graniteschools.org/skylinehigh/calendar/" itemprop="url"><span itemprop="name">Calendar</span></a></li>
+<li id="menu-item-756" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-756"><a href="https://schools.graniteschools.org/skylinehigh/student-organizations/" itemprop="url"><span itemprop="name">Students</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-166380" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-166380"><a href="https://schools.graniteschools.org/skylinehigh/eagles-clubs/" itemprop="url"><span itemprop="name">Eagles Clubs</span></a></li>
+	<li id="menu-item-77778" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-77778"><a href="http://skylinehorizon.org" itemprop="url"><span itemprop="name">Horizon (Student Publication)</span></a></li>
+	<li id="menu-item-63440" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-63440"><a href="https://schools.graniteschools.org/skylinehigh/wp-content/uploads/sites/108/2020/01/Skyline-Registration-Book-2020-2021.pdf" itemprop="url"><span itemprop="name">Course Catalog 2020-21</span></a></li>
+	<li id="menu-item-40354" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-40354"><a href="https://schools.graniteschools.org/skylinehigh/wp-content/uploads/sites/108/2015/10/Digital-citizenship-brochure.pdf" itemprop="url"><span itemprop="name">Digital Citizenship Brochure</span></a></li>
+	<li id="menu-item-83002" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-83002"><a href="https://schoolstore.jostens.com/school/utah/salt-lake-city/skyline-high-school?referrer=jostens.com" itemprop="url"><span itemprop="name">PTSA Jostens Skyline School Store</span></a></li>
+	<li id="menu-item-40355" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-40355"><a href="https://schools.graniteschools.org/skylinehigh/wp-content/uploads/sites/108/2015/10/Think-Before-Poster.pdf" itemprop="url"><span itemprop="name">Think Before Poster</span></a></li>
+	<li id="menu-item-79811" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-79811"><a href="http://www.skalooza.com/utah-salt_lake-salt_lake_city/skyline_high/index.html" itemprop="url"><span itemprop="name">Yearbooks</span></a></li>
+</ul>
+</li>
+<li id="menu-item-117" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-117"><a href="http://skylinehighptsa.org" itemprop="url"><span itemprop="name">PTSA</span></a></li>
+<li id="menu-item-107764" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-107764"><a href="https://schools.graniteschools.org/skylinehigh/community-council/" itemprop="url"><span itemprop="name">Com Council</span></a></li>
+<li id="menu-item-1261" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1261"><a href="https://schools.graniteschools.org/skylinehigh/cte/" itemprop="url"><span itemprop="name">CTE</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-10190" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10190"><a href="https://www.precisionexams.com/usoe/welcome/" itemprop="url"><span itemprop="name">CTE Testing</span></a></li>
+	<li id="menu-item-60789" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-60789"><a href="https://schools.graniteschools.org/skylinehigh/wp-content/uploads/sites/108/2016/03/EN-PDF-registration-16-17.pdf" itemprop="url"><span itemprop="name">Pre-School Registration</span></a></li>
+	<li id="menu-item-9638" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9638"><a href="https://schools.graniteschools.org/skylinehigh/skyline-graphics/" itemprop="url"><span itemprop="name">Graphics</span></a></li>
+	<li id="menu-item-10135" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10135"><a href="https://schools.graniteschools.org/skylinehigh/technology-courses/" itemprop="url"><span itemprop="name">Technology Courses</span></a></li>
+	<li id="menu-item-96829" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-96829"><a href="https://docs.google.com/forms/d/e/1FAIpQLSf4IDEv_AtSwuBESA-wxcYM5E3rpfrT9107nhp2IH-I-cQQjQ/viewform" itemprop="url"><span itemprop="name">Yearbook Survey</span></a></li>
+</ul>
+</li>
+<li id="menu-item-82813" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-82813"><a href="https://sites.google.com/view/ibskylineeagles" itemprop="url"><span itemprop="name">IB Info</span></a></li>
+<li id="menu-item-119" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-119"><a href="https://www.alumniclass.com/skylinehighut" itemprop="url"><span itemprop="name">Alumni</span></a></li>
+<li id="menu-item-1220" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1220"><a href="https://schools.graniteschools.org/skylinehigh/contact/" itemprop="url"><span itemprop="name">Contact</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-61608" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-61608"><a href="https://schools.graniteschools.org/skylinehigh/wp-content/uploads/sites/108/2016/05/map.jpeg" itemprop="url"><span itemprop="name">Map</span></a></li>
+</ul>
+</li>
+</ul></div></nav><div class="site-inner"><div class="content-sidebar-wrap"><main class="content" id="genesis-content"><div class="gsds-one-row row-1 widget-area"><section id="text-6" class="widget widget_text"><div class="widget-wrap"><h3 class="widgettitle widget-title">Principal&#8217;s Message</h3>
+			<div class="textwidget"><p><a href="https://schools.graniteschools.org/skylinehigh/wp-content/uploads/sites/108/2021/02/Principals-Message-2-9-21.pdf">Principal&#8217;s Message &#8211; 2/9/21</a><br />
+<a href="https://schools.graniteschools.org/skylinehigh/wp-content/uploads/sites/108/2021/02/Principals-Message-2-1-21.pdf">Principal&#8217;s Message &#8211; 2/1/21</a><br />
+<a href="https://schools.graniteschools.org/skylinehigh/wp-content/uploads/sites/108/2021/01/Principals-Message-1-25-21.pdf">Principal&#8217;s Message &#8211; 1/25/21</a><br />
+<a href="https://schools.graniteschools.org/skylinehigh/wp-content/uploads/sites/108/2021/01/Principals-Message-1-19-21a.pdf">Principal&#8217;s Message &#8211; 1-19-21</a><br />
+<a href="https://schools.graniteschools.org/skylinehigh/wp-content/uploads/sites/108/2021/01/Principals-Message-1-11-21.pdf">Principal&#8217;s Message &#8211; 1-11-21</a><br />
+<a href="https://schools.graniteschools.org/skylinehigh/wp-content/uploads/sites/108/2021/01/Principals-Message-with-Updated-AB-Calendar-1-4-21.pdf">Principal&#8217;s Message &#8211; 1-4-21</a><br />
+<a href="https://schools.graniteschools.org/skylinehigh/wp-content/uploads/sites/108/2020/12/Principals-Message-12-14-20.pdf">Principal&#8217;s Message &#8211; 12-14-20</a><br />
+<a href="https://schools.graniteschools.org/skylinehigh/wp-content/uploads/sites/108/2020/12/Principals-Message-12-7-20-with-Calendar.pdf">Principal&#8217;s Message &#8211; 12-7-20</a><br />
+<a href="https://schools.graniteschools.org/skylinehigh/wp-content/uploads/sites/108/2020/11/Principals-Message-11-30-20.pdf">Principal&#8217;s Message &#8211; 11-30-20</a><br />
+<a href="https://schools.graniteschools.org/skylinehigh/wp-content/uploads/sites/108/2020/11/Principals-Message-11-23-20.pdf">Principal&#8217;s Message &#8211; 11-23-20</a></p>
+<p><a href="https://schools.graniteschools.org/skylinehigh/principals-message/">More&#8230;</a></p>
+</div>
+		</div></section>
+<section id="custom_html-7" class="widget_text widget widget_custom_html"><div class="widget_text widget-wrap"><h3 class="widgettitle widget-title">Skyline Live Events</h3>
+<div class="textwidget custom-html-widget"><a href="https://youtube.com/playlist?list=PLVEG9a0PwSE_Q3qjZSq8oBML5GO4OYj5S">
+	<img src="https://schools.graniteschools.org/skylinehigh/wp-content/uploads/sites/108/2021/01/Skyline-Live-Events.jpg" alt="Skyline Live Events on YouTube" data-lazy-src="https://schools.graniteschools.org/skylinehigh/wp-content/uploads/sites/108/2021/01/Skyline-Live-Events.jpg?is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class=" jetpack-lazy-image"><noscript><img src="https://schools.graniteschools.org/skylinehigh/wp-content/uploads/sites/108/2021/01/Skyline-Live-Events.jpg" alt="Skyline Live Events on YouTube" /></noscript>
+</a></div></div></section>
+</div><div class="gsds-one-row row-2 widget-area"><section id="featured-post-5" class="widget featured-content featuredpost"><div class="widget-wrap"><h3 class="widgettitle widget-title">School News</h3>
+<div class="post-174972 post type-post status-publish format-standard category-school-news entry gfwa-1 gfwa-odd"><a href="https://schools.graniteschools.org/skylinehigh/2021/02/05/parent-teacher-conference-info/" title="Parent Teacher Conference Info" class="alignleft"></a><h2><a href="https://schools.graniteschools.org/skylinehigh/2021/02/05/parent-teacher-conference-info/" title="Parent Teacher Conference Info">Parent Teacher Conference Info</a></h2><p class="byline post-info"><time class="entry-time" itemprop="datePublished" datetime="2021-02-05T07:50:40-07:00">February 5, 2021</time></p><p>Parent Teacher Conference Notice Feb 2021
+
+
+
+Step-By-Step Parent/Guardian Instructions
+
+
+
+Visit the school’s ...<div class="more-link-box"><a class="more-link" href="https://schools.graniteschools.org/skylinehigh/2021/02/05/parent-teacher-conference-info/">Read <span>Parent Teacher Conference Info</span><i class="fas fa-chevron-circle-right"></i></a></div></p></div><!--end post_class()-->
+
+<div class="post-174959 post type-post status-publish format-standard category-school-news entry gfwa-2 gfwa-even"><a href="https://schools.graniteschools.org/skylinehigh/2021/01/27/utah-higher-education-day-college-day/" title="Utah Higher Education Day (College Day)" class="alignleft"></a><h2><a href="https://schools.graniteschools.org/skylinehigh/2021/01/27/utah-higher-education-day-college-day/" title="Utah Higher Education Day (College Day)">Utah Higher Education Day (College Day)</a></h2><p class="byline post-info"><time class="entry-time" itemprop="datePublished" datetime="2021-01-27T13:38:50-07:00">January 27, 2021</time></p><p>Virtual College Day will begin Thursday Jan 28.  There will be no real disruption in class except for the showing of a short video on ...<div class="more-link-box"><a class="more-link" href="https://schools.graniteschools.org/skylinehigh/2021/01/27/utah-higher-education-day-college-day/">Read <span>Utah Higher Education Day (College Day)</span><i class="fas fa-chevron-circle-right"></i></a></div></p></div><!--end post_class()-->
+
+<div class="post-172308 post type-post status-publish format-standard category-school-news entry gfwa-3 gfwa-odd"><a href="https://schools.graniteschools.org/skylinehigh/2021/01/26/yearbook-senior-ads/" title="Yearbook Senior Ads" class="alignleft"></a><h2><a href="https://schools.graniteschools.org/skylinehigh/2021/01/26/yearbook-senior-ads/" title="Yearbook Senior Ads">Yearbook Senior Ads</a></h2><p class="byline post-info"><time class="entry-time" itemprop="datePublished" datetime="2021-01-26T10:03:00-07:00">January 26, 2021</time></p><p>Dear Parent or Student,Yearbook recognition ads are a great way for parents, families and friends to commemorate student achievements and ...<div class="more-link-box"><a class="more-link" href="https://schools.graniteschools.org/skylinehigh/2021/01/26/yearbook-senior-ads/">Read <span>Yearbook Senior Ads</span><i class="fas fa-chevron-circle-right"></i></a></div></p></div><!--end post_class()-->
+
+</div></section>
+</div><div class="gsds-one-row row-3 widget-area"><section id="upcoming_events_widget-5" class="widget widget_upcoming_events_widget"><div class="widget-wrap"><h3 class="widgettitle widget-title">Upcoming Events</h3>
+			<p>No upcoming events</p>
+</div></section>
+</div><div class="gsds-one-row row-4 widget-area"><section id="gsdssi_load_contact_information_widget-3" class="widget gsdssi_load_contact_information_widget"><div class="widget-wrap"><h3 class="widgettitle widget-title">Our Information</h3>
+<div class="gsdssi contact-information"><div class="contact-info-item pn"><span class="icon-label"><i class="fal fa-user"></i>School Principal</span><span class="information">Mitch Nerdin</span></div><div class="contact-info-item mop"><span class="icon-label"><i class="fal fa-phone"></i>Main Office Phone</span><span class="information">(385) 646-5420</span></div><div class="contact-info-item mof"><span class="icon-label"><i class="fal fa-fax"></i>Main Office Fax</span><span class="information">(385) 646-5422</span></div><div class="contact-info-item aop"><span class="icon-label"><i class="fal fa-phone"></i>Attendance Office Phone</span><span class="information">(385) 646-5433</span></div><div class="contact-info-item cocp"><span class="icon-label"><i class="fal fa-phone"></i>Counseling Center Phone</span><span class="information">(385) 646-5421</span></div><div class="contact-info-item moh"><span class="icon-label"><i class="fal fa-clock"></i>Main Office Hours</span><span class="information"><p><strong>Monday - Friday</strong><br />
+7:00 a.m. - 3:30 p.m.</p>
+<p><a href="https://cdn-59bd6cf5f911c923e82ee0ee.closte.com/wp-content/uploads/2020/10/AB-Calendar-2020-2021-v10-20-20.pdf">2020-21 A/B Calendar</a></p>
+</span></div><div class="contact-info-item sa"><span class="icon-label"><i class="fal fa-map-marker-alt"></i>School Address</span><span class="information">3251 East 3760 South</span><span class="information group"><span class="scty">Salt Lake City</span><span class="punctuation">,</span> <span class="sst">UT</span> <span class="szip">84109</span></span><span class="information gm"><a href="https://goo.gl/maps/S9wSqeHTqnGf7mfd7">(View Google Map)</a></span></div><div class="contact-info-item sb"><span class="icon-label"><i class="fal fa-map-signs"></i>School Boundaries</span><span class="information"><a href="http://www2.graniteschools.org/Maps/Skyline.pdf">View Boundary Map</a></span></div></div></div></section>
+</div></main><aside class="sidebar sidebar-primary widget-area" role="complementary" aria-label="Primary Sidebar" itemscope itemtype="https://schema.org/WPSideBar" id="genesis-sidebar-primary"><h2 class="genesis-sidebar-title screen-reader-text">Primary Sidebar</h2>    <div class="widget-extras">
+        <div class="search-wrap">
+            <!-- <h4 class="tiny"></h4> -->
+            <form class="search-form" method="get" action="https://schools.graniteschools.org/skylinehigh/" role="search" itemprop="potentialAction" itemscope itemtype="https://schema.org/SearchAction"><label class="search-form-label screen-reader-text" for="searchform-1">Search this website</label><input class="search-form-input" type="search" name="s" id="searchform-1" placeholder="Search this website" itemprop="query-input"><input class="search-form-submit" type="submit" value="Go"><meta content="https://schools.graniteschools.org/skylinehigh/?s={s}" itemprop="target"></form>        </div>
+        <div class="translate">
+            <!-- <h4 class="tiny"></h4> -->
+            <div class="widget widget_google_translate_widget"><div id="google_translate_element"></div></div>        </div>
+    </div>
+    <section id="custom_html-9" class="widget_text widget widget_custom_html"><div class="widget_text widget-wrap"><h3 class="widgettitle widget-title">SEP Scheduler</h3>
+<div class="textwidget custom-html-widget"><strong>Password:</strong> <span class="notranslate">skyline</span></div></div></section>
+<section id="gsdssi_load_program_logos_widget-6" class="widget gsdssi_load_program_logos_widget"><div class="widget-wrap"><div class="program-logo aligncenter"><a href="https://www.canyoncreeksoftware.com/scheduler/ut/granite/"><img src="https://schools.graniteschools.org/skylinehigh/wp-content/plugins/gsdssi-school-information/public/images/logos/online-scheduler@2x.png" alt="Schedule an appointment." class="aligncenter" /></a></div></div></section>
+<section id="custom_html-2" class="widget_text widget widget_custom_html"><div class="widget_text widget-wrap"><h3 class="widgettitle widget-title">Construction Updates</h3>
+<div class="textwidget custom-html-widget"><p>
+	Keep up to date with the latest information about Skyline High's construction progress.
+</p>
+<p>
+	<a class="button" href="https://gsdfuture.org/category/project-updates/skyline/">GSD FUTURE</a></p></div></div></section>
+<section id="gsdssi_load_program_logos_widget-3" class="widget gsdssi_load_program_logos_widget"><div class="widget-wrap"><h3 class="widgettitle widget-title">Programs</h3>
+<div class="program-logo aligncenter"><a href="https://www.myschoolapps.com"><img src="https://schools.graniteschools.org/skylinehigh/wp-content/plugins/gsdssi-school-information/public/images/logos/free-and-reduced-lunch@2x.png" alt="Apply for Free and Reduced Lunch." class="aligncenter" /></a></div><div class="program-logo aligncenter"><a href="https://graniteschools.nutrislice.com/menu/skyline-hs"><img src="https://schools.graniteschools.org/skylinehigh/wp-content/plugins/gsdssi-school-information/public/images/logos/lunch-menus@2x.png" alt="School lunch menus." class="aligncenter" /></a></div><div class="program-logo aligncenter"><a href="https://paypams.com"><img src="https://schools.graniteschools.org/skylinehigh/wp-content/plugins/gsdssi-school-information/public/images/logos/paypams@2x.png" alt="Pay for lunches and more online at PayPams.com." class="aligncenter" /></a></div><div class="program-logo aligncenter"><a href="https://app.peachjar.com/flyers/all/schools/21749"><img src="https://schools.graniteschools.org/skylinehigh/wp-content/plugins/gsdssi-school-information/public/images/logos/peachjar@2x.png" alt="District eFlyers with PeachJar." class="aligncenter" /></a></div><div class="program-logo aligncenter"><a href="https://safeut.med.utah.edu/"><img src="https://schools.graniteschools.org/skylinehigh/wp-content/plugins/gsdssi-school-information/public/images/logos/safe-utah@2x.png" alt="Safe Utah crisis line. Submit a tip." class="aligncenter" /></a></div><div class="program-logo aligncenter"><a href="https://www.graniteschools.org/schoolleadership/school-emergency-information/"><img src="https://schools.graniteschools.org/skylinehigh/wp-content/plugins/gsdssi-school-information/public/images/logos/school-safety-plan@2x.png" alt="View the school safety plan." class="aligncenter" /></a></div><div class="program-logo aligncenter"><a href="http://www2.graniteschools.org/SchoolSearch/"><img src="https://schools.graniteschools.org/skylinehigh/wp-content/plugins/gsdssi-school-information/public/images/logos/school-search@2x.png" alt="School Search: Locate your precinct district, school attendance boundaries, and bus eligibility." class="aligncenter" /></a></div></div></section>
+</aside></div></div><div class="footer-widgets" id="genesis-footer-widgets"><h2 class="genesis-sidebar-title screen-reader-text">Footer</h2><div class="wrap"><div class="widget-area footer-widgets-1 footer-widget-area"><section id="blog_subscription-3" class="widget widget_blog_subscription jetpack_subscription_widget"><div class="widget-wrap"><h3 class="widgettitle widget-title">Subscribe to News</h3>
+
+            <form action="#" method="post" accept-charset="utf-8" id="subscribe-blog-blog_subscription-3">
+				                    <div id="subscribe-text"><p>Enter your email address to subscribe to this blog and receive notifications of new posts by email.</p>
+</div>                    <p id="subscribe-email">
+                        <label id="jetpack-subscribe-label"
+                               class="screen-reader-text"
+                               for="subscribe-field-blog_subscription-3">
+							Email Address                        </label>
+                        <input type="email" name="email" required="required"
+                        			                                                value=""
+                            id="subscribe-field-blog_subscription-3"
+                            placeholder="Email Address"
+                        />
+                    </p>
+
+                    <p id="subscribe-submit">
+                        <input type="hidden" name="action" value="subscribe"/>
+                        <input type="hidden" name="source" value="https://schools.graniteschools.org/skylinehigh/"/>
+                        <input type="hidden" name="sub-type" value="widget"/>
+                        <input type="hidden" name="redirect_fragment" value="blog_subscription-3"/>
+						                        <button type="submit"
+	                        		                    	                        name="jetpack_subscriptions_widget"
+	                    >
+	                        Subscribe                        </button>
+                    </p>
+				            </form>
+		
+</div></section>
+</div><div class="widget-area footer-widgets-2 footer-widget-area"><section id="gsdssi_load_program_logos_widget-4" class="widget gsdssi_load_program_logos_widget"><div class="widget-wrap"><h3 class="widgettitle widget-title">Stakeholder Feedback</h3>
+<div class="program-logo aligncenter"><div class="details">We value your feedback. Please take a short survey and let us know how we&#039;re doing.</div><div class="inner-image"><a href="https://schools.graniteschools.org/skylinehigh/leave-school-feedback"><img src="https://schools.graniteschools.org/skylinehigh/wp-content/plugins/gsdssi-school-information/public/images/logos/hr-surveys@2x.png" alt="Leave feedback about this school." class="aligncenter" /></a></div></div></div></section>
+</div><div class="widget-area footer-widgets-3 footer-widget-area"><section id="gsdssi_required_links_widget-3" class="widget gsdssi_required_links_widget"><div class="widget-wrap"><h3 class="widgettitle widget-title">Important Links</h3>
+<ul class="required-links"><li class="required-link"><a class="frl" href="https://www.myschoolapps.com">Free &amp; Reduced Lunch</a></li><li class="required-link"><a class="gsdf" href="https://gsdfuture.org">GSD Future</a></li><li class="required-link"><a class="lm" href="https://graniteschools.nutrislice.com/menu/skyline-hs">Lunch Menu</a></li><li class="required-link"><a class="lp" href="https://paypams.com">Lunch Payments</a></li><li class="required-link"><a class="pbl" href="https://www.graniteschools.org/grading/">Proficiency-Based Learning</a></li><li class="required-link"><a class="pl" href="https://portal.graniteschools.org/">Portal Login</a></li><li class="required-link"><a class="sut" href="https://safeut.med.utah.edu/">SafeUT</a></li><li class="required-link"><a class="si" href="https://datamanager.graniteschools.org/Fee/ViewSchoolFees/?SchoolID=646">School Fee Schedule</a></li><li class="required-link"><a class="ssp" href="https://www.graniteschools.org/schoolleadership/school-emergency-information/">School Safety Plan</a></li><li class="required-link"><a class="sb" href="https://www.graniteschools.org/superintendent/sups-blog/">Superintendent&#039;s Blog</a></li></ul></div></section>
+</div><div class="widget-area footer-widgets-4 footer-widget-area"><section id="gsdssi_social_media_profiles_widget-3" class="widget gsdssi_social_media_profiles_widget"><div class="widget-wrap"><h3 class="widgettitle widget-title">Follow Us</h3>
+<ul class="gsdssi social-profiles center row"><li class="icons"><a class="facebook" href="https://www.facebook.com/skylinehigh/" aria-label="Facebook"><span class="icon-surround"><i class="fab fa-facebook" aria-hidden="true" title="Visit us on Facebook"></i></span></a></li><li class="icons"><a class="twitter" href="https://twitter.com/SkylineHS" aria-label="Twitter"><span class="icon-surround"><i class="fab fa-twitter" aria-hidden="true" title="Visit us on Twitter"></i></span></a></li><li class="icons"><a class="youtube" href="https://www.youtube.com/user/SHSnews12" aria-label="YouTube"><span class="icon-surround"><i class="fab fa-youtube" aria-hidden="true" title="Visit us on YouTube"></i></span></a></li><li class="icons"><a class="github" href="https://github.com/SkylineHigh" aria-label="Github"><span class="icon-surround"><i class="fab fa-github" aria-hidden="true" title="Visit us on Github"></i></span></a></li></ul></div></section>
+</div></div></div><footer class="site-footer" itemscope itemtype="https://schema.org/WPFooter"><div class="wrap">
+    <div class="school-stuff">
+        <div class="footer-menu">
+            <a href="https://gsdsites.graniteschools.org">Intranet</a>
+            <span class="punctuation">&middot;</span>
+            <a href="https://www.graniteschools.org/privacy-policy">Privacy Policy</a>
+            <span class="punctuation">&middot;</span>
+            <a href="https://www.graniteschools.org/terms-of-use">Terms of Use</a>
+            <span class="punctuation">&middot;</span>
+            <a href="https://schools.graniteschools.org/skylinehigh/wp-login.php">Sign In</a>
+        </div>
+
+        <div class="school-deets">
+                            <span class="school-name">
+                    <a href="https://schools.graniteschools.org/skylinehigh">Skyline High</a>
+                </span>
+                                    <span class="punctuation">&middot;</span> <span class="school-al1"><a href="https://goo.gl/maps/S9wSqeHTqnGf7mfd7">3251 East 3760 South</a></span>
+                                        <span class="punctuation">,</span> <span class="school-city">Salt Lake City</span>
+                                            <span class="punctuation">,</span> <span class="school-state">UT</span>
+                                                <span class="school-zip">84109</span>
+                                </div>
+
+                    <div class="school-numbers">
+                <span class="phone main-phone"><i class="fal fa-phone"></i>Main: (385) 646-5420</span>
+                                    <span class="phone attendance-phone"><i class="fal fa-phone"></i>Attendance: (385) 646-5433</span>
+                                        <span class="phone counseling-phone"><i class="fal fa-phone"></i>Counseling: (385) 646-5421</span>
+                                </div>
+                </div>
+
+    <div class="district-stuff">
+        <div class="district-statements">
+            <div class="col-1">
+                <h4>Non-Discrimination Statement</h4>
+                <p class="last">Granite School District prohibits discrimination, harassment (including sexual harassment), or retaliation on the basis of race, color, sex, pregnancy, religion, national origin, marital status, disability, sexual orientation, gender identity or any other legally protected classification in all educational programs, activities, admissions, access, treatment, or employment practices and provides equal access to scouting groups and other designated youth groups. Related inquiries and complaints may be directed to a school administrator or to Charlene Lui, Title IX Coordinator and Director of Educational Equity, (385) 646-7413. You may also contact the Office for Civil Rights, Denver, CO, (303) 844-5695.<br />
+                » <a href="https://cdn-59bd6cf5f911c923e82ee0ee.closte.com/wp-content/uploads/sites/22/2017/12/V.C.-1.-Prohibition-Discrimination-Harassment-Retaliation.pdf">Read Policy</a> «</p>
+            </div>
+
+            <div class="col-2">
+                <h4>Commitment to Accessibility</h4>
+                <p>Granite School District is committed to making information, programs, and services accessible to all students, parents/guardians, patrons, and employees, including those with disabilities.  Please contact your school administration or Charlene Lui, Director of Educational Equity, (385) 646-7413 to request interpreters or auxiliary aids.  If you need help accessing this website, or you would like to provide feedback or report a concern, please contact our <a href="https://www.graniteschools.org/communications/contact/">Communications Office</a>, (385) 646-4529.</p>
+
+                <h4>Content Disclaimer</h4>
+                <p class="last">The Granite School District is not responsible for the text and content of websites not owned and operated by the Granite School District.</p>
+            </div>
+        </div>
+
+        <div class="district-deets">
+            <span class="copyright">&copy; 2021 <a href="https://www.graniteschools.org">Granite School District</a></span> &middot;
+
+            <span><a href="https://goo.gl/maps/N4shm" target="_blank">2500 South State Street</a>, Salt Lake City, UT 84115</span>
+
+            <span><a href="tel:1-385-646-5000">(385) 646-5000</a></span>
+        </div>
+    </div>
+    </div></footer></div>		<script>
+		( function ( body ) {
+			'use strict';
+			body.className = body.className.replace( /\btribe-no-js\b/, 'tribe-js' );
+		} )( document.body );
+		</script>
+			<script type="text/javascript">
+		function genesisBlocksShare( url, title, w, h ){
+			var left = ( window.innerWidth / 2 )-( w / 2 );
+			var top  = ( window.innerHeight / 2 )-( h / 2 );
+			return window.open(url, title, 'toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=no, resizable=no, copyhistory=no, width=600, height=600, top='+top+', left='+left);
+		}
+	</script>
+	<!-- Mentoring Tabs -->
+<script type="text/javascript">
+(function(){function async_load(){var s=document.createElement('script');s.type='text/javascript';s.id='mswidget_jssrc';s.async=true;s.src='http://mentorstudents.org/highschool/mswidget_main.js?ut_skylinehighschool';var x=document.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x)}if(window.attachEvent){window.attachEvent('onload',async_load)}else{window.addEventListener('load',async_load,false)}})();
+</script>
+<!-- /Mentoring Tabs --><script> /* <![CDATA[ */var tribe_l10n_datatables = {"aria":{"sort_ascending":": activate to sort column ascending","sort_descending":": activate to sort column descending"},"length_menu":"Show _MENU_ entries","empty_table":"No data available in table","info":"Showing _START_ to _END_ of _TOTAL_ entries","info_empty":"Showing 0 to 0 of 0 entries","info_filtered":"(filtered from _MAX_ total entries)","zero_records":"No matching records found","search":"Search:","all_selected_text":"All items on this page were selected. ","select_all_link":"Select all pages","clear_selection":"Clear Selection.","pagination":{"all":"All","next":"Next","previous":"Previous"},"select":{"rows":{"0":"","_":": Selected %d rows","1":": Selected 1 row"}},"datepicker":{"dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesMin":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Prev","currentText":"Today","closeText":"Done","today":"Today","clear":"Clear"}};/* ]]> */ </script><script type='text/javascript' src='https://schools.graniteschools.org/skylinehigh/wp-includes/js/dist/vendor/lodash.min.js?ver=4.17.19' id='lodash-js'></script>
+<script type='text/javascript' id='lodash-js-after'>
+window.lodash = _.noConflict();
+</script>
+<script type='text/javascript' src='https://schools.graniteschools.org/skylinehigh/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=7.4.4' id='wp-polyfill-js'></script>
+<script type='text/javascript' id='wp-polyfill-js-after'>
+( 'fetch' in window ) || document.write( '<script src="https://schools.graniteschools.org/skylinehigh/wp-includes/js/dist/vendor/wp-polyfill-fetch.min.js?ver=3.0.0"></scr' + 'ipt>' );( document.contains ) || document.write( '<script src="https://schools.graniteschools.org/skylinehigh/wp-includes/js/dist/vendor/wp-polyfill-node-contains.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.DOMRect ) || document.write( '<script src="https://schools.graniteschools.org/skylinehigh/wp-includes/js/dist/vendor/wp-polyfill-dom-rect.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.URL && window.URL.prototype && window.URLSearchParams ) || document.write( '<script src="https://schools.graniteschools.org/skylinehigh/wp-includes/js/dist/vendor/wp-polyfill-url.min.js?ver=3.6.4"></scr' + 'ipt>' );( window.FormData && window.FormData.prototype.keys ) || document.write( '<script src="https://schools.graniteschools.org/skylinehigh/wp-includes/js/dist/vendor/wp-polyfill-formdata.min.js?ver=3.0.12"></scr' + 'ipt>' );( Element.prototype.matches && Element.prototype.closest ) || document.write( '<script src="https://schools.graniteschools.org/skylinehigh/wp-includes/js/dist/vendor/wp-polyfill-element-closest.min.js?ver=2.0.2"></scr' + 'ipt>' );
+</script>
+<script type='text/javascript' src='https://schools.graniteschools.org/skylinehigh/wp-includes/js/dist/vendor/react.min.js?ver=16.13.1' id='react-js'></script>
+<script type='text/javascript' src='https://schools.graniteschools.org/skylinehigh/wp-includes/js/dist/vendor/react-dom.min.js?ver=16.13.1' id='react-dom-js'></script>
+<script type='text/javascript' src='https://schools.graniteschools.org/skylinehigh/wp-includes/js/dist/escape-html.min.js?ver=bf1b8a4ca2c3b18d741a467e1e911a36' id='wp-escape-html-js'></script>
+<script type='text/javascript' src='https://schools.graniteschools.org/skylinehigh/wp-includes/js/dist/element.min.js?ver=94cc04e5247c5da340a15732e1f75b45' id='wp-element-js'></script>
+<script type='text/javascript' src='https://schools.graniteschools.org/skylinehigh/wp-includes/js/dist/html-entities.min.js?ver=5cfd89de832defe0715d41430c747f74' id='wp-html-entities-js'></script>
+<script type='text/javascript' src='//schools.graniteschools.org/skylinehigh/wp-content/plugins/connections/assets/dist/js/blocks-public.js?ver=10.1-1611004448' id='connections-blocks-js'></script>
+<script type='text/javascript' src='//schools.graniteschools.org/skylinehigh/wp-content/plugins/connections/assets/vendor/picturefill/picturefill.min.js?ver=3.0.2' id='picturefill-js'></script>
+<script type='text/javascript' src='https://schools.graniteschools.org/skylinehigh/wp-includes/js/dist/i18n.min.js?ver=ac389435e7fd4ded01cf603f3aaba6a6' id='wp-i18n-js'></script>
+<script type='text/javascript' src='https://schools.graniteschools.org/skylinehigh/wp-includes/js/dist/url.min.js?ver=98645f0502e5ed8dadffd161e39072d2' id='wp-url-js'></script>
+<script type='text/javascript' src='https://schools.graniteschools.org/skylinehigh/wp-includes/js/dist/hooks.min.js?ver=84b89ab09cbfb4469f02183611cc0939' id='wp-hooks-js'></script>
+<script type='text/javascript' id='wp-api-fetch-js-translations'>
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "default", { "locale_data": { "messages": { "": {} } } } );
+</script>
+<script type='text/javascript' src='https://schools.graniteschools.org/skylinehigh/wp-includes/js/dist/api-fetch.min.js?ver=4dec825c071b87c57f687eb90f7c23c3' id='wp-api-fetch-js'></script>
+<script type='text/javascript' id='wp-api-fetch-js-after'>
+wp.apiFetch.use( wp.apiFetch.createRootURLMiddleware( "https://schools.graniteschools.org/skylinehigh/wp-json/" ) );
+wp.apiFetch.nonceMiddleware = wp.apiFetch.createNonceMiddleware( "3148d6d2e1" );
+wp.apiFetch.use( wp.apiFetch.nonceMiddleware );
+wp.apiFetch.use( wp.apiFetch.mediaUploadMiddleware );
+wp.apiFetch.nonceEndpoint = "https://schools.graniteschools.org/skylinehigh/wp-admin/admin-ajax.php?action=rest-nonce";
+</script>
+<script type='text/javascript' src='https://schools.graniteschools.org/skylinehigh/wp-includes/js/dist/vendor/moment.min.js?ver=2.26.0' id='moment-js'></script>
+<script type='text/javascript' id='moment-js-after'>
+moment.updateLocale( 'en_US', {"months":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthsShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"weekdays":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"weekdaysShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"week":{"dow":0},"longDateFormat":{"LT":"g:i a","LTS":null,"L":null,"LL":"F j, Y","LLL":"F j, Y g:i a","LLLL":null}} );
+</script>
+<script type='text/javascript' src='https://schools.graniteschools.org/skylinehigh/wp-includes/js/dist/dom-ready.min.js?ver=aca9d46a9f06d1759d4bcd73ba659133' id='wp-dom-ready-js'></script>
+<script type='text/javascript' id='wp-a11y-js-translations'>
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "default", { "locale_data": { "messages": { "": {} } } } );
+</script>
+<script type='text/javascript' src='https://schools.graniteschools.org/skylinehigh/wp-includes/js/dist/a11y.min.js?ver=410fc057d03809dd6a54fcc90ceca441' id='wp-a11y-js'></script>
+<script type='text/javascript' src='https://schools.graniteschools.org/skylinehigh/wp-includes/js/dist/is-shallow-equal.min.js?ver=69e9ec8d7f0efa7ef49595462a5a1640' id='wp-is-shallow-equal-js'></script>
+<script type='text/javascript' src='https://schools.graniteschools.org/skylinehigh/wp-includes/js/dist/priority-queue.min.js?ver=2a103fa1ccc5bfeeddbd9625e5e55837' id='wp-priority-queue-js'></script>
+<script type='text/javascript' src='https://schools.graniteschools.org/skylinehigh/wp-includes/js/dist/compose.min.js?ver=bbd53e5cd3a724e8ba755d40a02abc3d' id='wp-compose-js'></script>
+<script type='text/javascript' src='https://schools.graniteschools.org/skylinehigh/wp-includes/js/dist/date.min.js?ver=a19ca8f98d798140f75073f0beff01e5' id='wp-date-js'></script>
+<script type='text/javascript' id='wp-date-js-after'>
+wp.date.setSettings( {"l10n":{"locale":"en_US","months":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthsShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"weekdays":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"weekdaysShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"meridiem":{"am":"am","pm":"pm","AM":"AM","PM":"PM"},"relative":{"future":"%s from now","past":"%s ago"}},"formats":{"time":"g:i a","date":"F j, Y","datetime":"F j, Y g:i a","datetimeAbbreviated":"M j, Y g:i a"},"timezone":{"offset":-7,"string":"America\/Denver","abbr":"MST"}} );
+</script>
+<script type='text/javascript' src='https://schools.graniteschools.org/skylinehigh/wp-includes/js/dist/deprecated.min.js?ver=c98233d213768b215724e3d63cf2b24b' id='wp-deprecated-js'></script>
+<script type='text/javascript' src='https://schools.graniteschools.org/skylinehigh/wp-includes/js/dist/dom.min.js?ver=ea4497ea94e1cce797fbf0bd33c01373' id='wp-dom-js'></script>
+<script type='text/javascript' id='wp-keycodes-js-translations'>
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "default", { "locale_data": { "messages": { "": {} } } } );
+</script>
+<script type='text/javascript' src='https://schools.graniteschools.org/skylinehigh/wp-includes/js/dist/keycodes.min.js?ver=793d1b7af5bb378c53d22185e6f6b148' id='wp-keycodes-js'></script>
+<script type='text/javascript' src='https://schools.graniteschools.org/skylinehigh/wp-includes/js/dist/primitives.min.js?ver=9f0b40a949ebfa6285fc2232a8811f09' id='wp-primitives-js'></script>
+<script type='text/javascript' src='https://schools.graniteschools.org/skylinehigh/wp-includes/js/dist/redux-routine.min.js?ver=7f05ca6d114dba752fd5a7d9090bc94e' id='wp-redux-routine-js'></script>
+<script type='text/javascript' src='https://schools.graniteschools.org/skylinehigh/wp-includes/js/dist/data.min.js?ver=9a46df5c996f2ab728f28fd0eb9e78bd' id='wp-data-js'></script>
+<script type='text/javascript' id='wp-data-js-after'>
+( function() {
+	var userId = 0;
+	var storageKey = "WP_DATA_USER_" + userId;
+	wp.data
+		.use( wp.data.plugins.persistence, { storageKey: storageKey } );
+	wp.data.plugins.persistence.__unstableMigrate( { storageKey: storageKey } );
+} )();
+</script>
+<script type='text/javascript' src='https://schools.graniteschools.org/skylinehigh/wp-includes/js/dist/rich-text.min.js?ver=099981aee2a1b09c763ac1bb0de7f91a' id='wp-rich-text-js'></script>
+<script type='text/javascript' src='https://schools.graniteschools.org/skylinehigh/wp-includes/js/dist/warning.min.js?ver=c890269c8f414bbdac2c0505ec5c11a5' id='wp-warning-js'></script>
+<script type='text/javascript' id='wp-components-js-translations'>
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "default", { "locale_data": { "messages": { "": {} } } } );
+</script>
+<script type='text/javascript' src='https://schools.graniteschools.org/skylinehigh/wp-includes/js/dist/components.min.js?ver=acda7ed704a5cd88b3f144fad5e2edec' id='wp-components-js'></script>
+<script type='text/javascript' src='//schools.graniteschools.org/skylinehigh/wp-content/plugins/connections/assets/dist/js/bundle.js?ver=10.1-1611004448' id='frontend-js'></script>
+<script type='text/javascript' src='https://schools.graniteschools.org/skylinehigh/wp-content/plugins/genesis-blocks/dist/assets/js/dismiss.js?ver=1607032678' id='genesis-blocks-dismiss-js-js'></script>
+<script type='text/javascript' src='https://schools.graniteschools.org/skylinehigh/wp-includes/js/hoverIntent.min.js?ver=1.8.1' id='hoverIntent-js'></script>
+<script type='text/javascript' src='https://schools.graniteschools.org/skylinehigh/wp-content/themes/genesis/lib/js/menu/superfish.min.js?ver=1.7.10' id='superfish-js'></script>
+<script type='text/javascript' src='https://schools.graniteschools.org/skylinehigh/wp-content/themes/genesis/lib/js/menu/superfish.args.min.js?ver=3.3.3' id='superfish-args-js'></script>
+<script type='text/javascript' src='https://schools.graniteschools.org/skylinehigh/wp-content/themes/genesis/lib/js/skip-links.min.js?ver=3.3.3' id='skip-links-js'></script>
+<script type='text/javascript' id='jetpack-facebook-embed-js-extra'>
+/* <![CDATA[ */
+var jpfbembed = {"appid":"249643311490","locale":"en_US"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://schools.graniteschools.org/skylinehigh/wp-content/plugins/jetpack/_inc/build/facebook-embed.min.js' id='jetpack-facebook-embed-js'></script>
+<script type='text/javascript' src='https://schools.graniteschools.org/skylinehigh/wp-content/plugins/jetpack/vendor/automattic/jetpack-lazy-images/src/js/intersectionobserver-polyfill.min.js?ver=1.1.2' id='jetpack-lazy-images-polyfill-intersectionobserver-js'></script>
+<script type='text/javascript' id='jetpack-lazy-images-js-extra'>
+/* <![CDATA[ */
+var jetpackLazyImagesL10n = {"loading_warning":"Images are still loading. Please cancel your print and try again."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://schools.graniteschools.org/skylinehigh/wp-content/plugins/jetpack/vendor/automattic/jetpack-lazy-images/src/js/lazy-images.min.js?ver=1.1.2' id='jetpack-lazy-images-js'></script>
+<script type='text/javascript' id='gsds-one-responsive-menu-js-extra'>
+/* <![CDATA[ */
+var genesis_responsive_menu = {"mainMenu":"Menu","menuIconClass":"dashicons-before dashicons-menu","subMenu":"Submenu","subMenuIconClass":"dashicons-before dashicons-arrow-down-alt2","menuClasses":{"combine":[".nav-primary",".nav-secondary"]}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://schools.graniteschools.org/skylinehigh/wp-content/themes/genesis/lib/js/menu/responsive-menus.min.js?ver=1.1.3' id='gsds-one-responsive-menu-js'></script>
+<script type='text/javascript' src='https://schools.graniteschools.org/skylinehigh/wp-includes/js/wp-embed.min.js?ver=5.6.1' id='wp-embed-js'></script>
+<script type='text/javascript' id='google-translate-init-js-extra'>
+/* <![CDATA[ */
+var _wp_google_translate_widget = {"lang":"en_US","layout":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://schools.graniteschools.org/skylinehigh/wp-content/plugins/jetpack/_inc/build/widgets/google-translate/google-translate.min.js?ver=5.6.1' id='google-translate-init-js'></script>
+<script type='text/javascript' src='//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit&#038;ver=5.6.1' id='google-translate-js'></script>
+<script src='https://stats.wp.com/e-202107.js' defer></script>
+<script>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:9.4',blog:'46963913',post:'0',tz:'-7',srv:'schools.graniteschools.org'} ]);
+	_stq.push([ 'clickTrackerInit', '46963913', '0' ]);
+</script>
+</body></html>
+
+<!-- Page generated by LiteSpeed Cache 3.6.2 on 2021-02-18 20:07:11 -->
