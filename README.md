@@ -72,6 +72,9 @@ Source code for the Maze Robot [here](https://github.com/Bamboo72/2021-Programmi
   Link to the project GitHub page [here](https://github.com/Bamboo72/2020CP2Project)
   
   Source code for the final project [here](https://github.com/Bamboo72/2021-Programming-Portfolio/tree/main/MazeGame)
+  
+  ![Maze Title Image](https://github.com/Bamboo72/2021-Programming-Portfolio/blob/main/images/TitleScreen.PNG)
+  ![Maze Gameplay Image](https://github.com/Bamboo72/2021-Programming-Portfolio/blob/main/images/maze.PNG)
 
 ## Second Semester Group Project: The Isle of Laeso
  
