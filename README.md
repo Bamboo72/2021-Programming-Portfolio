@@ -13,7 +13,9 @@ Also note that I was nominated as the 2020-2021 Sterling Scholar in Computer Tec
 In December 2020 I made my Sterling Scholar Portfolio in which I included details on my computer technology skills, leadership, service, other interests, and the start of my personal "Choose Your Own Adventure" game project that I made at the beginning of the school year (approx. August 2020).
 My Sterling Scholar Portfolio which can be viewed [here](https://drive.google.com/file/d/1xEBZNcyEfwP00WyrlPreDRGfQmkZbKzR/view?usp=sharing).
 
-*Be sure to scroll to the bottom to see my two big projects for this year!*
+
+__*Be sure to scroll to the bottom to see my two big projects for this year!*__
+
 
 # Spotlighted Projects created in the Programming 2 class 2020 - 2021:
  
@@ -92,9 +94,9 @@ Source code for the Word Scrambler [here](https://github.com/Bamboo72/2021-Progr
  
  Source code for the Guessing Game [here](https://github.com/Bamboo72/2021-Programming-Portfolio/tree/main/Semester2/GuessingGame)
  
- ## Second Semester Permutation using Recursion
+## Second Semester Permutation using Recursion
 
- ### Completed March 2021
+### Completed March 2021
 
  This was my second attempt at using recursion (The first being a small program for calculating numbers in factorial and fibonacci sequences). I am very used to an iterative approach to programming so this was a tricky concept to wrap my head around. With some help from peers I was able to get this code to work. This project asks the user for word and prints out all the permutations of the word using a recursive approach.
  
@@ -102,7 +104,7 @@ Source code for the Word Scrambler [here](https://github.com/Bamboo72/2021-Progr
  
  Source code for the Permutation using Recursion project [here](https://github.com/Bamboo72/2021-Programming-Portfolio/tree/main/Semester2/PermutationIterator)
  
-  ## Second Semester HashMaps Practice
+## Second Semester HashMaps Practice
 
 ### Completed April 2021
 
@@ -122,7 +124,11 @@ Source code for the Word Scrambler [here](https://github.com/Bamboo72/2021-Progr
   
   Source code for the final project [here](https://github.com/Bamboo72/2021-Programming-Portfolio/tree/main/MazeGame)
   
+  Title Screen:
   ![Maze Title Image](https://github.com/Bamboo72/2021-Programming-Portfolio/blob/main/images/TitleScreen.PNG?raw=true)
+  
+  
+  Gameplay:
   ![Maze Gameplay Image](https://github.com/Bamboo72/2021-Programming-Portfolio/blob/main/images/maze.PNG?raw=true)
 
 ## Second Semester Group Project: The Isle of Laeso
@@ -136,8 +142,23 @@ Source code for the Word Scrambler [here](https://github.com/Bamboo72/2021-Progr
   Source code for the Graphics class I made [here](https://github.com/Bamboo72/Programming2GroupProject1/blob/main/src/Graphics.java)
   and note that I also made the [MousePressListener](https://github.com/Bamboo72/Programming2GroupProject1/blob/main/src/MousePressListener.java) and the [BuildMenuMousePressListener](https://github.com/Bamboo72/Programming2GroupProject1/blob/main/src/BuildMenuMousePressListener.java).
   
+  Concept Art:
+  
+  ![Laeso Concept Image](https://github.com/Bamboo72/Programming2GroupProject1/blob/main/ConceptArt/Isle%20of%20Laeso.jpg?raw=true)
+  
+  
+  Title Screen:
   ![Laeso Title Image](https://github.com/Bamboo72/2021-Programming-Portfolio/blob/main/images/LaesoTitle.PNG?raw=true)
+ 
+ 
+ Character Creation Screen:
   ![Laeso Character Create Image](https://github.com/Bamboo72/2021-Programming-Portfolio/blob/main/images/LaesoCharacterCreate.PNG?raw=true)
-  ![Laeso Gameplay Image](https://github.com/Bamboo72/2021-Programming-Portfolio/blob/main/images/LaesoGameplay.PNG?raw=true)
+
+
+Gameplay:
+![Laeso Gameplay Image](https://github.com/Bamboo72/2021-Programming-Portfolio/blob/main/images/LaesoGameplay.PNG?raw=true)
+  
+  
+  Settings:
   ![Laeso Settings Image](https://github.com/Bamboo72/2021-Programming-Portfolio/blob/main/images/LaesoSettings.PNG?raw=true)
 
