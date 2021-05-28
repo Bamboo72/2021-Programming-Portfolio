@@ -9,7 +9,9 @@ Certifications:
 * Utah State Certified in Java
 * Utah State Certified in Advanced Java
 
-Also note that I was nominated as the 2020-2021 Sterling Scholar in Computer Technology for Skyline High School, and I made it to the Semi-Finals. I included details on my personal adventure game project, leadership, and service as of December 2020 in my Sterling Scholar Portfolio which can be viewed [here](https://drive.google.com/file/d/1xEBZNcyEfwP00WyrlPreDRGfQmkZbKzR/view?usp=sharing).
+Also note that I was nominated as the 2020-2021 Sterling Scholar in Computer Technology for Skyline High School, and I made it to the Semi-Finals.
+In December 2020 I made my Sterling Scholar Portfolio in which I included details on my computer technology skills, leadership, service, other interests, and the start of my personal "Choose Your Own Adventure" game project that I made at the beginning of the school year (approx. August 2020).
+My Sterling Scholar Portfolio which can be viewed [here](https://drive.google.com/file/d/1xEBZNcyEfwP00WyrlPreDRGfQmkZbKzR/view?usp=sharing).
 
 
 # Spotlighted Projects created in the Programming 2 class 2020 - 2021:
