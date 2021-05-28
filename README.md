@@ -13,6 +13,7 @@ Also note that I was nominated as the 2020-2021 Sterling Scholar in Computer Tec
 In December 2020 I made my Sterling Scholar Portfolio in which I included details on my computer technology skills, leadership, service, other interests, and the start of my personal "Choose Your Own Adventure" game project that I made at the beginning of the school year (approx. August 2020).
 My Sterling Scholar Portfolio which can be viewed [here](https://drive.google.com/file/d/1xEBZNcyEfwP00WyrlPreDRGfQmkZbKzR/view?usp=sharing).
 
+*Be sure to scroll to the bottom to see my two big projects for this year!*
 
 # Spotlighted Projects created in the Programming 2 class 2020 - 2021:
  
@@ -34,7 +35,7 @@ My Sterling Scholar Portfolio which can be viewed [here](https://drive.google.co
  
  This was the first textbook project I completed in Programming 2, and was the inspiration for my Individual Project. This project is able to determine if a maze is solvable or not. It originally used a maze created manually in a 2D array, but I later changed it to use randomly generated mazes.
  
- ![Maze Robot Image](https://github.com/Bamboo72/2021-Programming-Portfolio/blob/main/images/MazeRobot.PNG) 
+ ![Maze Robot Image](https://github.com/Bamboo72/2021-Programming-Portfolio/blob/main/images/MazeRobot.PNG?raw=true) 
   
 Source code for the Maze Robot [here](https://github.com/Bamboo72/2021-Programming-Portfolio/blob/main/CodeFromHome/MazeRobot.java)
 
@@ -43,31 +44,42 @@ Source code for the Maze Robot [here](https://github.com/Bamboo72/2021-Programmi
 ### Completed November 2020
  
  
- In this project I utilized 2D arrays and formatted print statements to display a chess board using special characters. It was a pretty simple project, but I'm pleased with how the final display looks.
+ In this project I utilized 2D arrays and formatted print statements to display a chess board using special characters. I'm pleased with how the final display looks. This class could potentially be used for a text based chess game.
  
- ![Maze Robot Image](https://github.com/Bamboo72/2021-Programming-Portfolio/blob/main/images/Chess.PNG) 
+ ![Text Chessboard Image](https://github.com/Bamboo72/2021-Programming-Portfolio/blob/main/images/Chess.PNG?raw=true) 
   
-Source code for the Maze Robot [here](https://github.com/Bamboo72/2021-Programming-Portfolio/blob/main/CodeFromHome/ChessBoard.java)
+Source code for the Chessboard [here](https://github.com/Bamboo72/2021-Programming-Portfolio/blob/main/CodeFromHome/ChessBoard.java)
+
+## First Semester Word Scrambler
+  
+### Completed November 2020
+ 
+ 
+This project randomly scrambles words that the user inputs. This was a simple project, but it was good practice with Strings, for loops, substrings, chars, and randomization.
+ 
+ ![Word Scrambler Image](https://github.com/Bamboo72/2021-Programming-Portfolio/blob/main/images/WordScrambler.PNG?raw=true) 
+  
+Source code for the Word Scrambler [here](https://github.com/Bamboo72/2021-Programming-Portfolio/blob/main/CodeFromHome/WordScrambler.java)
 
 ## First Semester Table Application
  
 ### Completed December 2020
  
-  This project was a simple but interesting project that allows the user to pass in strings to a table and then display them. The strings are entered in CSV (comma-separated values) format. Hypothetically, this code could be used to create large tables for real data. (Although, I think much more development would be needed to make it usable.)
+  This project was another simple but interesting project that allows the user to pass in strings to a table and then display them. The strings are entered in CSV (comma-separated values) format. Hypothetically, this code could be used to create large tables for real data. (Although, I think much more development would be needed to make it usable.)
   
-![Table Application Image](https://github.com/Bamboo72/2021-Programming-Portfolio/blob/main/images/Table.PNG) 
+![Table Application Image](https://github.com/Bamboo72/2021-Programming-Portfolio/blob/main/images/Table.PNG?raw=true) 
 
  Source code for Table Application [here](https://github.com/Bamboo72/2021-Programming-Portfolio/blob/main/CodeFromHome/Table.java)
 
-## Second Semester Recursion Practice
+## Second Semester Inheritance with Pets
 
-### Completed
+### Completed January 2021
 
- This was our first introduction to recursion.
+ In this project I created a parent Pet class and three child classes: Dog, Bird, and Fish. The user is able to add, modify, and display the pets through a text based user interface loop. This project helped to show how to use inheritance and how to handle variables in the superclass and subclasses.
  
-  ![Recursion Code Image]()
+  ![Inheritance Code Image](https://github.com/Bamboo72/2021-Programming-Portfolio/blob/main/images/Pet.PNG?raw=true)
  
- Source code for the number guessing game [here]()
+ Source code for the Inheritance with Pets project [here](https://github.com/Bamboo72/2021-Programming-Portfolio/tree/main/Semester2/Pet)
  
 ## Second Semester Guessing Game
  
@@ -75,10 +87,30 @@ Source code for the Maze Robot [here](https://github.com/Bamboo72/2021-Programmi
  
  This was a simple guessing game, similar to the one I made in year 1, but this time it can record the time users take to guess the number, and then record the user's name, time, and amount of guesses to a file.
  
- ![Guessing Game Image](https://github.com/Bamboo72/2021-Programming-Portfolio/blob/main/images/GuessingGame.png)
+ ![Guessing Game Image](https://github.com/Bamboo72/2021-Programming-Portfolio/blob/main/images/GuessingGame.png?raw=true)
  
  
- Source code for the recorded questions [here](https://github.com/Bamboo72/2021-Programming-Portfolio/tree/main/Semester2/GuessingGame)
+ Source code for the Guessing Game [here](https://github.com/Bamboo72/2021-Programming-Portfolio/tree/main/Semester2/GuessingGame)
+ 
+ ## Second Semester Permutation using Recursion
+
+ ### Completed March 2021
+
+ This was my second attempt at using recursion (The first being a small program for calculating numbers in factorial and fibonacci sequences). I am very used to an iterative approach to programming so this was a tricky concept to wrap my head around. With some help from peers I was able to get this code to work. This project asks the user for word and prints out all the permutations of the word using a recursive approach.
+ 
+  ![Recursion Code Image](https://github.com/Bamboo72/2021-Programming-Portfolio/blob/main/images/Recursion.PNG?raw=true)
+ 
+ Source code for the Permutation using Recursion project [here](https://github.com/Bamboo72/2021-Programming-Portfolio/tree/main/Semester2/PermutationIterator)
+ 
+  ## Second Semester HashMaps Practice
+
+### Completed April 2021
+
+ Everyone in our Programming 2 class was assigned a collection type to focus on, and I was assigned to HashMaps. For the project I answered a series of questions about how to perform certain tasks using my assigned collection type.
+ 
+  ![HashMap Practice Image](https://github.com/Bamboo72/2021-Programming-Portfolio/blob/main/images/HashmapPractice.PNG?raw=true)
+ 
+ Source code for the HashMaps Practice [here](https://github.com/Bamboo72/2021-Programming-Portfolio/blob/main/CodeFromHome/HashMapPractice.java)
 
 ## Second Semester Individual Project: Maze Game
  
@@ -90,8 +122,8 @@ Source code for the Maze Robot [here](https://github.com/Bamboo72/2021-Programmi
   
   Source code for the final project [here](https://github.com/Bamboo72/2021-Programming-Portfolio/tree/main/MazeGame)
   
-  ![Maze Title Image](https://github.com/Bamboo72/2021-Programming-Portfolio/blob/main/images/TitleScreen.PNG)
-  ![Maze Gameplay Image](https://github.com/Bamboo72/2021-Programming-Portfolio/blob/main/images/maze.PNG)
+  ![Maze Title Image](https://github.com/Bamboo72/2021-Programming-Portfolio/blob/main/images/TitleScreen.PNG?raw=true)
+  ![Maze Gameplay Image](https://github.com/Bamboo72/2021-Programming-Portfolio/blob/main/images/maze.PNG?raw=true)
 
 ## Second Semester Group Project: The Isle of Laeso
  
@@ -104,8 +136,8 @@ Source code for the Maze Robot [here](https://github.com/Bamboo72/2021-Programmi
   Source code for the Graphics class I made [here](https://github.com/Bamboo72/Programming2GroupProject1/blob/main/src/Graphics.java)
   and note that I also made the [MousePressListener](https://github.com/Bamboo72/Programming2GroupProject1/blob/main/src/MousePressListener.java) and the [BuildMenuMousePressListener](https://github.com/Bamboo72/Programming2GroupProject1/blob/main/src/BuildMenuMousePressListener.java).
   
-  ![Laeso Title Image](https://github.com/Bamboo72/2021-Programming-Portfolio/blob/main/images/LaesoTitle.PNG)
-  ![Laeso Character Create Image](https://github.com/Bamboo72/2021-Programming-Portfolio/blob/main/images/LaesoCharacterCreate.PNG)
-  ![Laeso Gameplay Image](https://github.com/Bamboo72/2021-Programming-Portfolio/blob/main/images/LaesoGameplay.PNG)
-  ![Laeso Settings Image](https://github.com/Bamboo72/2021-Programming-Portfolio/blob/main/images/LaesoSettings.PNG)
+  ![Laeso Title Image](https://github.com/Bamboo72/2021-Programming-Portfolio/blob/main/images/LaesoTitle.PNG?raw=true)
+  ![Laeso Character Create Image](https://github.com/Bamboo72/2021-Programming-Portfolio/blob/main/images/LaesoCharacterCreate.PNG?raw=true)
+  ![Laeso Gameplay Image](https://github.com/Bamboo72/2021-Programming-Portfolio/blob/main/images/LaesoGameplay.PNG?raw=true)
+  ![Laeso Settings Image](https://github.com/Bamboo72/2021-Programming-Portfolio/blob/main/images/LaesoSettings.PNG?raw=true)
 
