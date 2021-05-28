@@ -17,7 +17,7 @@ Certifications:
  
  This project displays the days left until my family member's birthday. This was one of our first assignments that utilized Swing to create graphics, but it also utilized a Day class to handle the time until each birthday.
  
- ![Birthday Countdown Image](https://github.com/Bamboo72/2021-Programming-Portfolio/blob/main/images/BirthdayCountdown.png)
+ ![Birthday Countdown Image](https://github.com/Bamboo72/2021-Programming-Portfolio/blob/main/images/BirthdayCountdown.png?raw=true)
  
  Source code for Birthday Countdown [here](https://github.com/Bamboo72/2021-Programming-Portfolio/tree/main/Semester1/BirthdayCountdown)
   
