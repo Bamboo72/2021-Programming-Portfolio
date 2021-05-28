@@ -2,21 +2,22 @@
 
 import java.util.Scanner;
 
-public class Permutation{
+public class Permutation {
 
-  public static void main(String[] args){
-    Scanner in = new Scanner(System.in);
-    String word = "";
+    public static void main(String[] args) {
+        Scanner in = new Scanner(System.in);
+        String aWord = "";
 
-    System.out.println("Enter a word to permute: ");
-    word = in.next();
+        System.out.println("Type the word you want to permutate: ");
+        aWord = in.next();
 
-    PermutationIterator p = new PermutationIterator(word);
-    while(p.hasMorePermutations()){
-      System.out.println(p.nextPermutation());
+        PermutationIterator p = new PermutationIterator(aWord);
+
+        while (p.hasMorePermutations()) {
+            System.out.println(p.nextPermutation());
+        }
+
+        in.close();
     }
-
-
-  }
 
 }
