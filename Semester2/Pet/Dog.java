@@ -4,6 +4,8 @@
 * @since 2021-1-3
 */
 
+package Pet;
+
 public class Dog extends Pet {
   private String favoriteToy;
   private String furType;
@@ -14,6 +16,7 @@ public class Dog extends Pet {
     favoriteToy = "Unknown";
     furType = "Unknown";
     breed = "Unknown";
+    setPetType("dog");
   }
 
   public void setBreed(String newBreed){

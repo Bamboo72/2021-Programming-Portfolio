@@ -4,6 +4,8 @@
 * @since 2021-1-3
 */
 
+package Pet;
+
 public class Fish extends Pet {
   private boolean hasScales;
   private int numOfFins;
@@ -12,11 +14,12 @@ public class Fish extends Pet {
   public Fish(){
     setNumOfLegs(0);
     hasScales = true;
-    numOfFins = "0";
+    numOfFins = 0;
     waterType = "Unknown";
+    setPetType("fish");
   }
 
-  public void setNumOfFins(String num){
+  public void setNumOfFins(int num){
     numOfFins = num;
   }
 
