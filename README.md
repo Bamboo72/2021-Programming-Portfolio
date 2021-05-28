@@ -93,6 +93,8 @@ Source code for the Word Scrambler [here](https://github.com/Bamboo72/2021-Progr
  
  
  Source code for the Guessing Game [here](https://github.com/Bamboo72/2021-Programming-Portfolio/tree/main/Semester2/GuessingGame)
+
+Oh, and if you're wondering why this image is light themed while all the others are dark themed: I took this screen capture from the Mac terminal at school. I liked how the image showed off the formatting and it added some variety to the portfolio so I decided to leave it as the light theme. (Just if you were curious :P)
  
 ## Second Semester Permutation using Recursion
 
