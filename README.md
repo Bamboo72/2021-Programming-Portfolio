@@ -38,6 +38,17 @@ My Sterling Scholar Portfolio which can be viewed [here](https://drive.google.co
   
 Source code for the Maze Robot [here](https://github.com/Bamboo72/2021-Programming-Portfolio/blob/main/CodeFromHome/MazeRobot.java)
 
+## First Semester Text Chessboard
+  
+### Completed November 2020
+ 
+ 
+ In this project I utilized 2D arrays and formatted print statements to display a chess board using special characters. It was a pretty simple project, but I'm pleased with how the final display looks.
+ 
+ ![Maze Robot Image](https://github.com/Bamboo72/2021-Programming-Portfolio/blob/main/images/Chess.PNG) 
+  
+Source code for the Maze Robot [here](https://github.com/Bamboo72/2021-Programming-Portfolio/blob/main/CodeFromHome/ChessBoard.java)
+
 ## First Semester Table Application
  
 ### Completed December 2020
