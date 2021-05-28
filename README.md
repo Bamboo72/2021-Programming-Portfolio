@@ -7,6 +7,10 @@ Link to 2019 Programming Portfolio: [here](https://bamboo72.github.io/2019-Progr
 Certifications: 
 * Utah State Certified in C++
 * Utah State Certified in Java
+* Utah State Certified in Advanced Java
+
+Also note that I was nominated as the 2020-2021 Sterling Scholar in Computer Technology for Skyline High School, and I made it to the Semi-Finals. I included details on my personal adventure game project, leadership, and service as of December 2020 in my Sterling Scholar Portfolio which can be viewed [here](https://drive.google.com/file/d/1xEBZNcyEfwP00WyrlPreDRGfQmkZbKzR/view?usp=sharing).
+
 
 # Spotlighted Projects created in the Programming 2 class 2020 - 2021:
  
@@ -32,9 +36,9 @@ Certifications:
   
 Source code for the Maze Robot [here](https://github.com/Bamboo72/2021-Programming-Portfolio/blob/main/CodeFromHome/MazeRobot.java)
 
-## First Semester Table Application?
+## First Semester Table Application
  
-### Completed
+### Completed December 2020
  
   This project was a simple but interesting project that allows the user to pass in strings to a table and then display them. The strings are entered in CSV (comma-separated values) format. Hypothetically, this code could be used to create large tables for real data. (Although, I think much more development would be needed to make it usable.)
   
