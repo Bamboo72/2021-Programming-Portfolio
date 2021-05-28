@@ -3,20 +3,11 @@ Ideas for projects to include in this portfolio:
 - Mention Sterling Scholar in Computer Technology (Made it to the Semi-finals)
 
 Semester 1:
-+ Choose Your Own Adventure Game? (Maybe not, since it wasn't for the class)
-+ Birthday Countdown
-+ Maze Robot
 + Chess (November 2020)
 + Word Scrambler (November 2020)
-+ Table application?
-- Check at home for any other projects in the files at home. 
 
 Semester 2:
-++ Individual Project Maze Game
-+ Group Project The Isle of Laeso
 - Recursion
-+ Guessing game
+- Radix Sort
 + Hashmaps (April 2021)
 - Something with inheritance like AbstractTutorial or Pet
-
-- I think most of my projects are at home
