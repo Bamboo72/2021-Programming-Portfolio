@@ -1,13 +1,1 @@
-Ideas for projects to include in this portfolio:
 
-- Mention Sterling Scholar in Computer Technology (Made it to the Semi-finals)
-
-Semester 1:
-+ Chess (November 2020)
-+ Word Scrambler (November 2020)
-
-Semester 2:
-- Recursion
-- Radix Sort
-+ Hashmaps (April 2021)
-- Something with inheritance like AbstractTutorial or Pet
